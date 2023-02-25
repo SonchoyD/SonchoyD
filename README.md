@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonchoyD
 - 👀 I’m interested in .programming.
-- 🌱 I’m currently learning .JavaScript.
+- 🌱 I’m currently learning .Web Development.
 - 📫 How to reach me das.sonchoy@gmail.com
 
 <!---
